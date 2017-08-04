@@ -1,6 +1,6 @@
 var main = function() {
 	$('.material-icons').click(function() {
-		$(this).toggleClass('not_checked');
+		$(this).toggleClass('unchecked');
 	})
 };
 

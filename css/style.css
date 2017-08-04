@@ -118,9 +118,9 @@ body {
 }
 .main li i {
 	float: right;
-	colo: ;
+	cursor: pointer;
 }
-.not_checked {
+.unchecked {
 	color: #e0e0e0;
 }
 
