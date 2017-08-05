@@ -92,10 +92,10 @@ body {
 	float: left;
 	width: 75%;
 	height: 100%;
-	overflow-y: auto;
 }
 .main .container {
 	margin: 15px;
+	overflow-y: auto;
 }
 /*Main list*/
 .main ul {
